@@ -1,3 +1,3 @@
 # goit-js-hw-06
 
-active link
+active link https://khrystynasaihak.github.io/goit-js-hw-06/
